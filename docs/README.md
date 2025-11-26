@@ -31,3 +31,4 @@
 1) 8ba9aeb 2025-09-19 Mikhail Первоначальная версия проекта с файлами circle.py и square.py
 2) 30076dd 2025-09-19 Mikhail Добавлено описание к функции circle.py
 3) afff45a 2025-09-19 Mikhail Добавлено описание к функции square.py
+4) 6552666 2025-11-26 Mikhail Добавлены тесты для функций circle.py и square.py
